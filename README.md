@@ -1,4 +1,4 @@
-[# Human Intelligence Modeling — Research
+# Human Intelligence Modeling — Research
 
 > 인간이 여러 감각으로부터 하나의 세계를 구성하는 계산 원리를 이해하고,
 > 그로부터 나만의 연구 질문을 찾기 위한 개인 연구 저장소.
